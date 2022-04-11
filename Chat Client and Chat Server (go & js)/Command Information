@@ -1,0 +1,5 @@
+{"username":"user3","password":"pass3"}
+
+node telnet.js localhost 8000
+node chatclient.js localhost 8000
+go run ChatServer.go 8000

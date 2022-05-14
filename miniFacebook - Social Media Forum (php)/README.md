@@ -5,7 +5,7 @@ James Oei <oeij01@udayton.edu>
 
 # 1. Introduction
 
-This is project's purpose is to design and implement a secure "MiniFacebook" page. Users will be able to Login, change password, add and edit posts, and comment on other post. In addition we will also add an extra access level in which superusers can view the list of registered users as well ass disable/enable users. This project will reinforce safe programming practive as well as help gain experience in application development.
+This is project's purpose is to design and implement a secure "MiniFacebook" page. Users will be able to Login, change password, add and edit posts, and comment on other post. In addition we will also add an extra access level in which superusers can view the list of registered users as well as disable/enable users. This project will reinforce safe programming practive as well as help gain experience in application development.
 
 
 # 2. Design
